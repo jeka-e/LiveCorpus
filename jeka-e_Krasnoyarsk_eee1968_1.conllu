@@ -1,0 +1,676 @@
+# time_begin = 3:39
+
+eee@
+
+# sent_id = 3
+# text = да
+1	да	да	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 5
+# text = у нас была собака вот и / это наверно первая моя собака / собака друг
+1	у	у	ADP	_	_	_	_	_	_
+2	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+3	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+5	вот	вот	PART	_	_	_	_	_	_
+6	и	и	CCONJ	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+9	наверно	наверно	ADV	_	Degree=Pos	_	_	_	_
+10	первая	первый	ANUM	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+11	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+15	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 7
+# text = кличка у него была конечно ээ / интересная Узнай / [Смеется] ну это это папа так решил / его назвать а
+1	кличка	кличка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	у	у	ADP	_	_	_	_	_	_
+3	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+4	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+6	ээ	ээ	INTJ	_	_	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	интересная	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	Узнай	Узнай	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+12	Смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+13	]	]	PUNCT	_	_	_	_	_	_
+14	ну	ну	PART	_	_	_	_	_	_
+15	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+16	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+17	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+18	так	так	ADV	_	Degree=Pos	_	_	_	_
+19	решил	решить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+22	назвать	назвать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+23	а	а	INTJ	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 9
+# text = когда он был щенком / у нас его забрали ну как / наша с эээ / у нас была собачка которая родила его / [кашляет] и потом нашлись люди которые решили его забрать но мы с братом / очень его / ну / как-то прикипели к нему / наверное / и даже не это а то что / эээ мы увидели отношение новых хозяев к нему / и как бы нам это не понравилось / они ну плохо относились и мы его украли / вернули назад / и он у нас прожил / шестнадцать или семнадцать лет это был самый преданный друг наверное / вот / я я имею в виду собак / вот эээ
+1	когда	когда	SCONJ	_	_	_	_	_	_
+2	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+3	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	щенком	щенок	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	у	у	ADP	_	_	_	_	_	_
+7	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+8	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+9	забрали	забрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	ну	ну	PART	_	_	_	_	_	_
+11	как	как	SCONJ	_	_	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	наша	наш	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+14	с	с	ADP	_	_	_	_	_	_
+15	эээ	эээ	INTJ	_	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	у	у	ADP	_	_	_	_	_	_
+18	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+19	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	собачка	собачка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+21	которая	который	PRON	_	Case=Nom	_	_	_	_
+22	родила	родить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+26	кашляет	кашлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+27	]	]	PUNCT	_	_	_	_	_	_
+28	и	и	CCONJ	_	_	_	_	_	_
+29	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+30	нашлись	найтись	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+31	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+32	которые	который	PRON	_	Case=Nom	_	_	_	_
+33	решили	решить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+34	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+35	забрать	забрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+36	но	но	CCONJ	_	_	_	_	_	_
+37	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+38	с	с	ADP	_	_	_	_	_	_
+39	братом	брат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+40	/	/	PUNCT	_	_	_	_	_	_
+41	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+42	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+43	/	/	PUNCT	_	_	_	_	_	_
+44	ну	ну	PART	_	_	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	как-то	как-то	ADV	_	Degree=Pos	_	_	_	_
+47	прикипели	прикипеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+48	к	к	ADP	_	_	_	_	_	_
+49	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+50	/	/	PUNCT	_	_	_	_	_	_
+51	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+52	/	/	PUNCT	_	_	_	_	_	_
+53	и	и	CCONJ	_	_	_	_	_	_
+54	даже	даже	PART	_	_	_	_	_	_
+55	не	не	PART	_	_	_	_	_	_
+56	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+57	а	а	CCONJ	_	_	_	_	_	_
+58	то	то	PRON	_	_	_	_	_	_
+59	что	что	SCONJ	_	_	_	_	_   _
+60	/	/	PUNCT	_	_	_	_	_	_
+61	эээ	эээ	INTJ	_	_	_	_	_	_
+62	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+63	увидели	увидеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+64	отношение	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+65	новых	новый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+66	хозяев	хозяин	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+67	к	к	ADP	_	_	_	_	_	_
+68	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+69	/	/	PUNCT	_	_	_	_	_	_
+70	и	и	CCONJ	_	_	_	_	_	_
+71	как	как	ADV	_	Degree=Pos	_	_	_	_
+72	бы	бы	PART	_	_	_	_	_	_
+73	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	_
+74	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+75	не	не	PART	_	_	_	_	_	_
+76	понравилось	понравиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+77	/	/	PUNCT	_	_	_	_	_	_
+78	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+79	ну	ну	PART	_	_	_	_	_	_
+80	плохо	плохо	ADV	_	Degree=Pos	_	_	_	_
+81	относились	относиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+82	и	и	CCONJ	_	_	_	_	_	_
+83	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+84	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+85	украли	украсть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+86	/	/	PUNCT	_	_	_	_	_	_
+87	вернули	вернуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+88	назад	назад	ADV	_	Degree=Pos	_	_	_	_
+89	/	/	PUNCT	_	_	_	_	_	_
+90	и	и	CCONJ	_	_	_	_	_	_
+91	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+92	у	у	ADP	_	_	_	_	_	_
+93	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+94	прожил	прожить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+95	/	/	PUNCT	_	_	_	_	_	_
+96	шестнадцать	шестнадцать	NUM	_	Case=Nom	_	_	_	_
+97	или	или	CCONJ	_	_	_	_	_	_
+98	семнадцать	семнадцать	NUM	_	Case=Acc	_	_	_	_
+99	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+100	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+101	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+102	самый	самый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+103	преданный	предать	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+104	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+105	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+106	/	/	PUNCT	_	_	_	_	_	_
+107	вот	вот	PART	_	_	_	_	_	_
+108	/	/	PUNCT	_	_	_	_	_	_
+109	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+110	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+111	имею	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+112	в	в	ADP	_	_	_	_	_	_
+113	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+114	собак	собака	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+115	/	/	PUNCT	_	_	_	_	_	_
+116	вот	вот	PART	_	_	_	_	_	_
+117	эээ	эээ	INTJ	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 11
+# text = он очень много понимал / с ним вот как с человеком он мо он мог даже и пожалеть тебя он он понимал все вот эээ / любое настроение
+1	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+2	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+3	много	много	ADV	_	Degree=Pos	_	_	_	_
+4	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	с	с	ADP	_	_	_	_	_	_
+7	ним	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+8	вот	вот	PART	_	_	_	_	_	_
+9	как	как	ADV	_	Degree=Pos	_	_	_	_
+10	с	с	ADP	_	_	_	_	_	_
+11	человеком	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+13	мо	мо	ADV	_	Degree=Pos	_	_	_	_
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+15	мог	мочь	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	даже	даже	PART	_	_	_	_	_	_
+17	и	и	PART	_	_	_	_	_	_
+18	пожалеть	жалеть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+19	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	_	_	_	_
+20	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+21	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+22	понимал	понимать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	все	весь	PART	_	_	_	_	_	_
+24	вот	вот	PART	_	_	_	_	_	_
+25	эээ	эээ	INTJ	_	_	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	любое	любой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+28	настроение	настроение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+ese@
+
+# sent_id = 13
+# text = а где вы его нашли?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	где	где	ADV	_	Degree=Pos	_	_	_	_
+3	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	_
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+5	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+6	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 15
+# text = не его мы его не нашли мы / у нас я говорю была собака и вот она его родила она родила щенков
+1	не	не	PART	_	_	_	_	_	_
+2	его	он	DET	_	_	_	_	_	_
+3	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+4	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+5	не	не	PART	_	_	_	_	_	_
+6	нашли	найти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	у	у	ADP	_	_	_	_	_	_
+10	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	говорю	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+15	и	и	CCONJ	_	_	_	_	_	_
+16	вот	вот	PART	_	_	_	_	_	_
+17	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+18	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+19	родила	рождать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+21	родила	рождать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+22	щенков	щенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+ese@
+
+# sent_id = 17
+# text = угу
+1	угу	уга	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 19
+# text = ну вот ну а потом этих щенков мы раздали / мы / нуу / пытались найти и отследить чтоб в хорошие руки чтобы щенки попали в хорошие руки / вот и этот единственный он как бы / ну не очень хорошие были у него хозяева / и мы его забрали / и я думаю что не пожалели потому что ну / хороший / пес
+1	ну	ну	PART	_	_	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	ну	ну	PART	_	_	_	_	_	_
+4	а	а	CCONJ	_	_	_	_	_	_
+5	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+6	этих	этот	DET	_	Case=Gen|Number=Plur	_	_	_	_
+7	щенков	щенок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+8	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+9	раздали	раздасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	нуу	ну	ADV	_	Degree=Pos	_	_	_	_
+14	/	/	PUNCT	_	_	_	_	_	_
+15	пытались	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+16	найти	найти	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+17	и	и	CCONJ	_	_	_	_	_	_
+18	отследить	отследить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+19	чтоб	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+20	в	в	ADP	_	_	_	_	_	_
+21	хорошие	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+22	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+23	чтобы	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+24	щенки	щенок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+25	попали	попасть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+26	в	в	ADP	_	_	_	_	_	_
+27	хорошие	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+28	руки	рука	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	вот	вот	PART	_	_	_	_	_	_
+31	и	и	PART	_	_	_	_	_	_
+32	этот	этот	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+33	единственный	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+34	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+35	как	как	ADV	_	Degree=Pos	_	_	_	_
+36	бы	бы	PART	_	_	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	ну	ну	PART	_	_	_	_	_	_
+39	не	не	PART	_	_	_	_	_	_
+40	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+41	хорошие	хороший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+42	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+43	у	у	ADP	_	_	_	_	_	_
+44	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+45	хозяева	хозяин	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+46	/	/	PUNCT	_	_	_	_	_	_
+47	и	и	CCONJ	_	_	_	_	_	_
+48	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+49	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+50	забрали	забрать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+51	/	/	PUNCT	_	_	_	_	_	_
+52	и	и	CCONJ	_	_	_	_	_	_
+53	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+54	думаю	думать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+55	что	что	SCONJ	_	_	_	_	_	_
+56	не	не	PART	_	_	_	_	_	_
+57	пожалели	жалеть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+58	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+59	что	что	SCONJ	_	_	_	_	_	_
+60	ну	ну	PART	_	_	_	_	_	_
+61	/	/	PUNCT	_	_	_	_	_	_
+62	хороший	хороший	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+63	/	/	PUNCT	_	_	_	_	_	_
+64	пес	по	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+ese@
+
+# sent_id = 21
+# text = а после этого у тебя были животные какие-то?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	после	после	ADP	_	_	_	_	_	_
+3	этого	это	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+4	у	у	ADP	_	_	_	_	_	_
+5	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	_	_	_	_
+6	были	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	животные	животный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+8	какие-то	какой-то	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 23
+# text = да
+1	да	да	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 25
+# text = да тоже у меня была собака королевский пудель / моя беда в том что я их очеловечиваю и потом очень эм к ним прикипаю у меня была королевская пуделиха звали Вита / шоколадка / и вот у меня её украли / ей было 5 лет и у меня её украли / воот / потом у нас / когда мы ээ когда мы с папой поженились / мы взяли / ирландского сеттера / Джою / которая воспитывала нам [смеется] ребенка будила меня чтобы кормить / и ребенок короче у нас никогда не плакала / не успевала потому что Джоя она э высокочувствительная была [смеется] / вот
+1	да	да	CCONJ	_	_	_	_	_	_
+2	тоже	тоже	PART	_	_	_	_	_	_
+3	у	у	ADP	_	_	_	_	_	_
+4	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+5	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	королевский	королевский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+8	пудель	пудель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+11	беда	беда	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	в	в	ADP	_	_	_	_	_	_
+13	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+14	что	что	SCONJ	_	_	_	_	_	_
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+16	их	они	PRON	_	Case=Acc|Number=Plur|Person=3	_	_	_	_
+17	очеловечиваю	очеловечивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	и	и	CCONJ	_	_	_	_	_	_
+19	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+20	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+21	эм	эй	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+22	к	к	ADP	_	_	_	_	_	_
+23	ним	они	PRON	_	Case=Dat|Number=Plur|Person=3	_	_	_	_
+24	прикипаю	прикипать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+25	у	у	ADP	_	_	_	_	_	_
+26	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+27	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+28	королевская	королевский	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+29	пуделиха	пуделиха	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+30	звали	звать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	Вита	Вит	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+32	/	/	PUNCT	_	_	_	_	_	_
+33	шоколадка	шоколадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+34	/	/	PUNCT	_	_	_	_	_	_
+35	и	и	CCONJ	_	_	_	_	_	_
+36	вот	вот	PART	_	_	_	_	_	_
+37	у	у	ADP	_	_	_	_	_	_
+38	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+39	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+40	украли	красть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+41	/	/	PUNCT	_	_	_	_	_	_
+42	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+43	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+44	5	5	NUM	_	_	_	_	_	_
+45	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+46	и	и	CCONJ	_	_	_	_	_	_
+47	у	у	ADP	_	_	_	_	_	_
+48	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+49	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+50	украли	красть	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+51	/	/	PUNCT	_	_	_	_	_	_
+52	воот	воот	ADV	_	Degree=Pos	_	_	_	_
+53	/	/	PUNCT	_	_	_	_	_	_
+54	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+55	у	у	ADP	_	_	_	_	_	_
+56	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+57	/	/	PUNCT	_	_	_	_	_	_
+58	когда	когда	SCONJ	_	_	_	_	_	_
+59	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+60	ээ	ээ	INTJ	_	_	_	_	_	_
+61	когда	когда	SCONJ	_	_	_	_	_	_
+62	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+63	с	с	ADP	_	_	_	_	_	_
+64	папой	папа	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+65	поженились	жениться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+66	/	/	PUNCT	_	_	_	_	_	_
+67	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	_	_	_	_
+68	взяли	брать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+69	/	/	PUNCT	_	_	_	_	_	_
+70	ирландского	ирландский	ADJ	_	Animacy=Anim|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+71	сеттера	сеттер	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+72	/	/	PUNCT	_	_	_	_	_	_
+73	Джою	Джоя	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+74	/	/	PUNCT	_	_	_	_	_	_
+75	которая	который	PRON	_	Case=Nom	_	_	_	_
+76	воспитывала	воспитывать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+77	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1	_	_	_	_
+78	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+79	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+80	]	]	PUNCT	_	_	_	_	_	_
+81	ребенка	ребенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+82	будила	будить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+83	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	_	_	_	_
+84	чтобы	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+85	кормить	кормить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+86	/	/	PUNCT	_	_	_	_	_	_
+87	и	и	CCONJ	_	_	_	_	_	_
+88	ребенок	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+89	короче	коротко	ADJ	_	Degree=Cmp	_	_	_	_
+90	у	у	ADP	_	_	_	_	_	_
+91	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+92	никогда	никогда	ADV	_	Degree=Pos	_	_	_	_
+93	не	не	PART	_	_	_	_	_	_
+94	плакала	плакать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+95	/	/	PUNCT	_	_	_	_	_	_
+96	не	не	PART	_	_	_	_	_	_
+97	успевала	успевать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+98	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+99	что	что	SCONJ	_	_	_	_	_	_
+100	Джоя	Джой	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+101	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+102	э	э	INTJ	_	_	_	_	_	_
+103	высокочувствительная	высокочувствительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+104	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+105	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+106	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+107	]	]	PUNCT	_	_	_	_	_	_
+108	/	/	PUNCT	_	_	_	_	_	_
+109	вот	вот	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 27
+# text = эээм кошка / был у меня замечательный кот когда я / жила закончила институт / я нашла котёнка
+1	эээм	эээм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	кошка	кошка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	у	у	ADP	_	_	_	_	_	_
+6	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+7	замечательный	замечательный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+8	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+9	когда	когда	SCONJ	_	_	_	_	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	жила	жить	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	закончила	закончить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	институт	институт	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+17	нашла	найти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	котёнка	котенок	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 29
+# text = он был маленький и я его называла Масиком / Мася ну потому что он был маленький а потом когда он вырос / там конечно / было смешно вот это Мася и вот эта вот / мордашка / тоже шикарный кот был / вот / ну и вообще люблю животных / сейчас у нас две собаки / две собаки одна кошка
+1	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+2	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+3	маленький	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	и	и	CCONJ	_	_	_	_	_	_
+5	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+6	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+7	называла	называть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	Масиком	Масик	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	Мася	Мася	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+11	ну	ну	PART	_	_	_	_	_	_
+12	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+13	что	что	SCONJ	_	_	_	_	_	_
+14	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+15	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	маленький	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+17	а	а	CCONJ	_	_	_	_	_	_
+18	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+19	когда	когда	SCONJ	_	_	_	_	_	_
+20	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+21	вырос	вырасти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	там	там	ADV	_	Degree=Pos	_	_	_	_
+24	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+27	смешно	смешной	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+28	вот	вот	PART	_	_	_	_	_	_
+29	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+30	Мася	Мася	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+31	и	и	CCONJ	_	_	_	_	_	_
+32	вот	вот	PART	_	_	_	_	_	_
+33	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+34	вот	вот	PART	_	_	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	мордашка	мордашка	ADV	_	Degree=Pos	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	тоже	тоже	PART	_	_	_	_	_	_
+39	шикарный	шикарный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+40	кот	кот	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+41	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	вот	вот	PART	_	_	_	_	_	_
+44	/	/	PUNCT	_	_	_	_	_	_
+45	ну	ну	PART	_	_	_	_	_	_
+46	и	и	CCONJ	_	_	_	_	_	_
+47	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+48	люблю	любить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+49	животных	животное	NOUN	_	Animacy=Anim|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+50	/	/	PUNCT	_	_	_	_	_	_
+51	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+52	у	у	ADP	_	_	_	_	_	_
+53	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+54	две	два	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+55	собаки	собака	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+56	/	/	PUNCT	_	_	_	_	_	_
+57	две	два	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+58	собаки	собака	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+59	одна	один	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+60	кошка	кошка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+ese@
+
+# sent_id = 31
+# text = а есть какая-нибудь смешная история про двух собак?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+3	какая-нибудь	какой-нибудь	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	смешная	смешной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	про	про	ADP	_	_	_	_	_	_
+7	двух	два	NUM	_	Case=Gen	_	_	_	_
+8	собак	собака	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 33
+# text = ой / эти эти смешные истории они они всегда / они сами / сейчас вспомнить вот что-то даже эээ / я не то что затрудняюсь хочется [смеется] что-то
+1	ой	а	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	эти	этот	DET	_	Case=Acc|Number=Plur	_	_	_	_
+4	эти	этот	DET	_	Case=Acc|Number=Plur	_	_	_	_
+5	смешные	смешной	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+6	истории	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+7	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+8	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+9	всегда	всегда	ADV	_	Degree=Pos	_	_	_	_
+10	/	/	PUNCT	_	_	_	_	_	_
+11	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+12	сами	сам	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+15	вспомнить	вспомянуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+16	вот	вот	PART	_	_	_	_	_	_
+17	что-то	что-то	PRON	_	Case=Acc	_	_	_	_
+18	даже	даже	PART	_	_	_	_	_	_
+19	эээ	эээ	X	_	Foreign=Yes	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+22	не	не	PART	_	_	_	_	_	_
+23	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+24	что	что	PRON	_	Case=Nom	_	_	_	_
+25	затрудняюсь	затрудняться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+26	хочется	хотеться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+27	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+28	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+29	]	]	PUNCT	_	_	_	_	_	_
+30	что-то	что-то	PRON	_	Case=Nom	_	_	_	SpacesAfter=\n\n
+
+ese@
+
+# sent_id = 35
+# text = а ты часто с ними гуляешь?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+3	часто	часто	ADV	_	Degree=Pos	_	_	_	_
+4	с	с	ADP	_	_	_	_	_	_
+5	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	_	_	_	_
+6	гуляешь	гулять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 37
+# text = да
+1	да	да	CCONJ	_	_	_	_	_	SpacesAfter=\n\n
+
+eee@
+
+# sent_id = 39
+# text = ну я не считаю того что там утром вечером все дела там у них / а так раньше я вообще каждый день по два-три часа гуляла / а сейчас ну потому ну так как Иджи уже возрастная собака ей тяжело стало здоровая / то я стараюсь с ними через день гулять / два - три часа
+1	ну	ну	PART	_	_	_	_	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+3	не	не	PART	_	_	_	_	_	_
+4	считаю	считать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+6	что	что	SCONJ	_	_	_	_	_	_
+7	там	там	ADV	_	Degree=Pos	_	_	_	_
+8	утром	утро	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	_
+9	вечером	вечер	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+10	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+11	дела	дело	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+12	там	там	ADV	_	Degree=Pos	_	_	_	_
+13	у	у	ADP	_	_	_	_	_	_
+14	них	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	а	а	CCONJ	_	_	_	_	_	_
+17	так	так	ADV	_	Degree=Pos	_	_	_	_
+18	раньше	рано	ADV	_	Degree=Cmp	_	_	_	_
+19	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+20	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+21	каждый	каждый	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+22	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+23	по	по	ADP	_	_	_	_	_	_
+24	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	SpaceAfter=No
+25	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+26	три	три	NUM	_	Animacy=Inan|Case=Acc	_	_	_	_
+27	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+28	гуляла	гулять	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	а	а	CCONJ	_	_	_	_	_	_
+31	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	_
+32	ну	ну	PART	_	_	_	_	_	_
+33	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+34	ну	ну	PART	_	_	_	_	_	_
+35	так	так	ADV	_	Degree=Pos	_	_	_	_
+36	как	как	SCONJ	_	_	_	_	_	_
+37	Иджи	Иджи	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+38	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+39	возрастная	возрастной	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+40	собака	собака	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+41	ей	она	PRON	_	Case=Dat|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+42	тяжело	тяжело	ADV	_	Degree=Pos	_	_	_	_
+43	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+44	здоровая	здоровый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	то	то	SCONJ	_	_	_	_	_	_
+47	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+48	стараюсь	стараться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+49	с	с	ADP	_	_	_	_	_	_
+50	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	_	_	_	_
+51	через	через	ADP	_	_	_	_	_	_
+52	день	день	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+53	гулять	гулять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+54	/	/	PUNCT	_	_	_	_	_	_
+55	два	два	NUM	_	Animacy=Inan|Case=Acc|Gender=Masc	_	_	_	_
+56	-	-	PUNCT	_	_	_	_	_	_
+57	три	три	NUM	_	Animacy=Inan|Case=Acc	_	_	_	_
+58	часа	час	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+
